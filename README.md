@@ -1,26 +1,83 @@
-# About Me:
-I build high-impact software that eliminates friction and scales with real users.
- 
-My path as a Full-Stack Engineer has been shaped by owning problems end-to-end—designing systems, improving performance, and delivering tools that teams and customers rely on every day. I specialize in TypeScript, React, Node.js, and AWS, and I’m most effective when turning complex, messy challenges into clean, scalable solutions.
- 
-At CARD.com, I worked across the stack to build and improve systems supporting transaction workflows, account management, and customer operations. From developing internal tools to integrating financial APIs like Plaid and Pinwheel, I focused on reducing manual work, increasing reliability, and helping teams move faster. I also contributed to architectural decisions, code quality, and cloud infrastructure in a multi-service AWS environment.
- 
-Previously at Sherwin-Williams, I built full-stack applications and focused heavily on performance and usability (most notably improving internal search speed by 90%) while collaborating across teams to deliver scalable, user-focused tools.
- 
-Lately, I’ve been pushing into AI-driven development, building a web application with Flask, React, LangChain, and MongoDB to explore how intelligent workflows can enhance real-world products.
- 
-I’m currently looking for my next opportunity where I can take ownership, build meaningful systems, and work with a team that values strong engineering and real impact
+# Hi, I'm Hayden Tinker
 
+**Full Stack Engineer** based in the Detroit Metro Area. I build production software that people rely on — financial tooling at a fintech startup, internal tools at a Fortune 500, and AI apps that actually work.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hayden-tinker) 
-[Portfolio Website](https://haydentinker.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-haydentinker.com-1a5276?style=flat-square)](https://haydentinker.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hayden--tinker-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/hayden-tinker)
+[![Email](https://img.shields.io/badge/Email-haydentinker613@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haydentinker613@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=haydentinker&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-### ✍️ Inspirational Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## What I build
 
+- **Production platforms** — At CARD.com I built ACE, a compliance-grade internal support platform unifying multiple backend systems with multi-tier RBAC, PII masking, and AWS Cognito auth
+- **Performance wins** — Cut internal search latency by 90% at Sherwin-Williams through query optimization and architectural improvements
+- **AI-powered tools** — RAG pipelines, LangChain agents, vector store ingestion, and real-time chat orchestration beyond simple API calls
+- **Geospatial applications** — Safety-aware routing with real-time hazard data and geospatial indexing
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Tech stack
+
+**Languages**
+`TypeScript` `JavaScript` `Python` `Java` `SQL`
+
+**Frontend**
+`React` `Next.js` `React Native` `Tailwind CSS` `Mantine` `TanStack`
+
+**Backend**
+`Node.js` `Express` `tRPC` `Flask` `REST APIs` `GraphQL` `WebSockets`
+
+**AI & LLM**
+`LangChain` `LangSmith` `OpenAI API` `RAG` `Vector Databases`
+
+**Cloud & DevOps**
+`AWS (CDK · App Runner · Cognito · CloudFront · S3 · WAF)` `Docker` `CI/CD` `Vercel`
+
+**Databases**
+`PostgreSQL` `MySQL` `MongoDB` `Redis`
+
+---
+
+## Featured projects
+
+### [Maple Routes](https://github.com/haydentinker/maple-routes) — Safety-aware dog walk planner
+Geospatial web app that generates walking routes by analyzing real-time hazard reports and nearby dog-friendly locations. Built with geospatial indexing for efficient location queries and dynamic map overlays showing route risk levels.
+
+`React` `Node.js` `TypeScript` `MongoDB` `Geospatial APIs`
+
+---
+
+### [Repository Augur](https://github.com/haydentinker/Repo-Chat-Bot) — Chat with your GitHub repos
+AI-powered chatbot that ingests GitHub repositories into a MongoDB vector store and enables natural language querying via RAG. GitHub OAuth, real-time WebSocket chat, LangSmith observability, and Stripe integration for paid access.
+
+`Python` `Flask` `LangChain` `LangSmith` `OpenAI` `MongoDB` `React` `TypeScript` `WebSockets`
+
+---
+
+### [Bedwars Stats Dashboard](https://bed-wars-stats-dashboard.vercel.app) — Real-time Hypixel stats
+Live stats dashboard integrating the Hypixel API. Deployed on Vercel with CI/CD for automated builds and seamless updates.
+
+`Next.js` `TypeScript` `HeroUI` `Vercel`
+
+---
+
+### [LeetCode Solutions](https://github.com/haydentinker/LeetCode) — Ongoing algorithm practice
+A growing collection of solutions across arrays, graphs, dynamic programming, trees, and system design. Updated regularly.
+
+`TypeScript` `Python`
+
+---
+
+## Certifications
+
+- **Foundation: Introduction to LangChain** — LangChain *(Mar 2025)*
+- **API Security for PCI Compliance** — APIsec University *(Oct 2023)*
+
+---
+
+## Currently
+
+Open to full stack engineering roles where the work is meaningful and the engineering bar is high.
+
+📍 Detroit Metro Area · Remote-friendly
