@@ -41,7 +41,7 @@
 
 ## Featured projects
 
-### [Maple Routes](https://github.com/haydentinker/maple-routes) — Safety-aware dog walk planner
+### [Maple Routes](https://github.com/haydentinker/Maple_Routes) — Safety-aware dog walk planner
 Geospatial web app that generates walking routes by analyzing real-time hazard reports and nearby dog-friendly locations. Built with geospatial indexing for efficient location queries and dynamic map overlays showing route risk levels.
 
 `React` `Node.js` `TypeScript` `MongoDB` `Geospatial APIs`
