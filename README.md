@@ -70,14 +70,15 @@ A growing collection of solutions across arrays, graphs, dynamic programming, tr
 ---
 
 ## Certifications
-
-- **Foundation: Introduction to LangChain** — LangChain *(Mar 2025)*
+- **AWS Certified Developer - Associate** — AWS *(May 2026)*
+- **Foundation: Introduction to LangChain** — LangChain *(Mar 2026)*
 - **API Security for PCI Compliance** — APIsec University *(Oct 2023)*
+
 
 ---
 
 ## Currently
 
-Open to full stack engineering roles where the work is meaningful and the engineering bar is high.
+Open to full stack engineering roles where the work is meaningful.
 
-📍 Detroit Metro Area · Remote-friendly
+📍 Detroit Metro Area · Remote-only
